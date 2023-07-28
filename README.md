@@ -8,13 +8,13 @@ The data utilized in the code can be downloaded from Google Drive [https://drive
 
 Code Descriptions:
 
-trend_in_obs.py: Calculates the observed onshore intensification of global subtropical Western Boundary Currents (WBCs).
-trend_in_model.py: Calculates the simulated onshore intensification of subtropical WBCs under global warming.
-cal_wsc_temp_kc.py: Computes changes in surface wind and oceanic stratification under global warming in the North Pacific.
-cal_wsc_temp_allwbcs.py: Computes changes in surface wind and oceanic stratification under global warming for other WBC runs.
-cal_mitgcm_input.py: Calculates the input files required for running MITgcm.
-read_mitgcm.py: Reads and processes the output generated from the MITgcm run.
-cal_mitgcm_v_integrate.py: Calculates the vertical integrated meridional velocity from MITgcm output.
-read_mitgcm_narrow_topo.py: Reads the MITgcm output with a narrow topography slope.
+1. trend_in_obs.py: Calculates the observed onshore intensification of global subtropical Western Boundary Currents (WBCs).
+2. trend_in_model.py: Calculates the simulated onshore intensification of subtropical WBCs under global warming.
+3. cal_wsc_temp_kc.py: Computes changes in surface wind and oceanic stratification under global warming in the North Pacific.
+4. cal_wsc_temp_allwbcs.py: Computes changes in surface wind and oceanic stratification under global warming for other WBC runs.
+5. cal_mitgcm_input.py: Calculates the input files required for running MITgcm.
+6. read_mitgcm.py: Reads and processes the output generated from the MITgcm run.
+7. cal_mitgcm_v_integrate.py: Calculates the vertical integrated meridional velocity from MITgcm output.
+8. read_mitgcm_narrow_topo.py: Reads the MITgcm output with a narrow topography slope.
 
 If you require any further clarifications or assistance, please do not hesitate to reach out to Dr. Haihong Guo.
