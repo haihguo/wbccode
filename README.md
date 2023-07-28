@@ -1,9 +1,10 @@
-# wbccode
-Code Descriptions of the manuscripts "Onshore Intensification of Subtropical Western Boundary Currents in a Warming Climate"
+# Code Descriptions of the manuscripts "Onshore Intensification of Subtropical Western Boundary Currents in a Warming Climate"
 
-This document provides a detailed description of the code used in the manuscript titled "Onshore Intensification of Subtropical Western Boundary Currents in a Warming Climate." If you have any questions or encounter any uncertainties, please feel free to contact Dr. Haihong Guo, a Postdoctoral Researcher at Laoshan Laboratory (Email: ghh@stu.ouc.edu.cn).
+This document provides the code employed in the research manuscript titled "Onshore Intensification of Subtropical Western Boundary Currents in a Warming Climate." For any inquiries or clarifications, please do not hesitate to reach out to Dr. Haihong Guo, a Postdoctoral Researcher at Laoshan Laboratory (Email: ghh@stu.ouc.edu.cn).
 
-The Python (.py) codes were executed using Python 3.10.8 and required additional packages downloaded from conda-forge (listed in the codes). The code utilized data located in the "data" directory, which includes all the input data necessary for the execution. Additionally, the "mitgcm" directory contains configurations for the idealized model runs.
+The Python (.py) codes were executed using Python 3.10.8 and necessitated additional packages downloaded from conda-forge, which are listed within the codes.  Moreover, the "mitgcm" directory incorporates configurations tailored for the idealized model runs.
+
+The data utilized in the code can be downloaded from Google Drive [https://drive.google.com/drive/folders/1GzvjD_nw_LnyTIyMu57cYJruGkv9uuO9?usp=sharing].
 
 Code Descriptions:
 
